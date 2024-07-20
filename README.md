@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Web Development and cybersecurity**
 
-- 📝 I am also a writer [https://gargipsukhatankar.wordpress.com/](https://gargipsukhatankar.wordpress.com/)
-
 - 💬 Ask me about **Javascript, express and axios**
 
 - 📫 How to reach me **gargi.p.sukhatankar@gmail.com**
