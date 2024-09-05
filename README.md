@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gargi</h1>
-<h3 align="center">A passionate web developer who also loves her kali box.</h3>
+<h3 align="center">A passionate full-stack web developer.</h3>
 <img align="right" alt="Coding" width="450" src="https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gargiiiii18&label=Profile%20views&color=0e75b6&style=flat" alt="gargiiiii18" /> </p>
 
-- 🌱 I’m currently learning **Web Development and cybersecurity**
+- 🌱 I’m currently learning **React, Next.js frameworks**
 
-- 💬 Ask me about **Javascript, express and axios**
+- 💬 Ask me about **the PERN stack (Postgres, Express, React, Node)**
 
 - 📫 How to reach me **gargi.p.sukhatankar@gmail.com**
 
