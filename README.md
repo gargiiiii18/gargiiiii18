@@ -4,13 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gargiiiii18&label=Profile%20views&color=0e75b6&style=flat" alt="gargiiiii18" /> </p>
 
-- 🌱 I’m currently learning **React, Next.js frameworks**
+- 🌱 I’m currently learning **React, Next.js frameworks, the MERN stack**
 
-- 💬 Ask me about **the PERN stack (Postgres, Express, React, Node)**
+- 💬 Ask me about **Postgres, Express, React, Node**
 
 - 📫 How to reach me **gargi.p.sukhatankar@gmail.com**
-
-- ⚡ Fun fact **You'll almost always find me hammering on either the keys of my laptop or the keys of my piano 🎹**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
