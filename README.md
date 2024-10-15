@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack web developer.</h3>
 <img align="right" alt="Coding" width="450" src="https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif">
 
-<p align="left"> <img src="" alt="gargiiiii18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gargiiiii18&label=Profile%20views&color=0e75b6&style=flat" alt="gargiiiii18" /> </p>
 
 - 🌱 I’m currently learning **React, Next.js frameworks, the MERN stack**
 
