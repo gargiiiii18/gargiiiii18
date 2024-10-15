@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gargi</h1>
 <h3 align="center">A passionate full-stack web developer.</h3>
-<img align="right" alt="Coding" width="450" src="https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif">
+<img align="right" alt="Coding" width="450" src="https://thumbs.dreamstime.com/b/cyberpunk-hacker-anime-girl-edgy-haircuy-typing-holographic-keyboard-surrounded-neon-code-digital-data-277372317.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gargiiiii18&label=Profile%20views&color=0e75b6&style=flat" alt="gargiiiii18" /> </p>
 
