@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gargi</h1>
 <h3 align="center">A passionate full-stack web developer.</h3>
-<img align="right" alt="Coding" width="450" src="https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif">
+<img align="right" alt="Coding" width="450" src="[https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif](https://giphy.com/embed/VbnUQpnihPSIgIXuZv" width="384" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gargiiiii18&label=Profile%20views&color=0e75b6&style=flat" alt="gargiiiii18" /> </p>
 
