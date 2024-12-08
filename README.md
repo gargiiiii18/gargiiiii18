@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gargi</h1>
 <h3 align="center">A passionate web developer.</h3>
-<img align="right" alt="Coding" width="450" src="https://fr.pinterest.com/pin/pokemon-eevee-gif-pokemon-eevee-cute-discover-share-gifs--708613322622595243/">
+<img align="right" alt="Coding" width="450" src="https://media1.giphy.com/media/f0pYRrCkBs8gg/200w.gif?cid=6c09b9522h00vsysmfgs96wk16k9vaeb1shp2h14prrq8kyl&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gargiiiii18&label=Profile%20views&color=0e75b6&style=flat" alt="gargiiiii18" /> </p>
 
