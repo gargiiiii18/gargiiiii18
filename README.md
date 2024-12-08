@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gargi</h1>
-<h3 align="center">A passionate full-stack web developer.</h3>
-<img align="right" alt="Coding" width="450" src="https://thumbs.dreamstime.com/b/cyberpunk-hacker-anime-girl-edgy-haircuy-typing-holographic-keyboard-surrounded-neon-code-digital-data-277372317.jpg">
+<h3 align="center">A passionate web developer.</h3>
+<img align="right" alt="Coding" width="450" src="https://fr.pinterest.com/pin/pokemon-eevee-gif-pokemon-eevee-cute-discover-share-gifs--708613322622595243/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gargiiiii18&label=Profile%20views&color=0e75b6&style=flat" alt="gargiiiii18" /> </p>
 
-- 🌱 I’m currently learning **React, Next.js frameworks, the MERN stack**
+- 🌱 I’m currently learning **Next.js framework**
 
-- 💬 Ask me about **Postgres, Express, React, Node**
+- 💬 Ask me about **Postgres, Express, React, Node ...and maybe Pokemons**
 
 - 📫 How to reach me **gargi.p.sukhatankar@gmail.com**
 
