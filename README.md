@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gargi</h1>
 <h3 align="center">A passionate web developer.</h3>
-<img align="right" alt="Coding" width="450" src="https://masterpiecer-images.s3.yandex.net/a72eeba657dd11eea854963c1ee369ba:upscaled">
+<img align="right" alt="Coding" width="450" height="450" src="https://masterpiecer-images.s3.yandex.net/a72eeba657dd11eea854963c1ee369ba:upscaled">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gargiiiii18&label=Profile%20views&color=0e75b6&style=flat" alt="gargiiiii18" /> </p>
 
