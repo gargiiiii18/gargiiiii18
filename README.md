@@ -1,8 +1,4 @@
-<h1 align="center">Hi 👋!  I'm Gargi</h1>
-
-###
-
-<h2 align="center">I practise full-stack web development</h2>
+<h1 align="center">Hi 👋! I'm Gargi</h1>
 
 ###
 
