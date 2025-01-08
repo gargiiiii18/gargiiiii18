@@ -61,7 +61,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Full stack Web Development & Competitive Programming<br><br>👯 I’m looking to collaborate on frontend & full-stack projects<br><br>⚡Fun Fact: Either on my laptop, or my piano, I'm always banging keys</p>
+<p align="left">🌱 I’m currently learning Full stack Web Development & Competitive Programming<br><br>👯 I’m looking to collaborate on frontend & full-stack projects<br><br>⚡Fun Fact: Either on my laptop, or on my piano, I'm always banging keys</p>
 
 ###
 
