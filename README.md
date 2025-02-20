@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋! I'm Gargi</h1>
-
+<h3 align="center">Full-Stack Web Developer | Next.js Developer</h3>
 ###
 
 <div align="center">
