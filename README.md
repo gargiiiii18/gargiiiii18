@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋! I'm Gargi</h1>
 <h3 align="center">Full-Stack Web Developer | Next.js Developer</h3>
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gargiiiii18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
