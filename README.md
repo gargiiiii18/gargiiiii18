@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋! I'm Gargi</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
-<h5 align="center">MERN Developer | Next.js Developer</h5>
+<h4 align="center">MERN | Next.js</h4>
 
 ###
 
