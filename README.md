@@ -4,10 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gargiiiii18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gargiiiii18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -66,9 +62,15 @@
 ###
 ### 
 
+<div aign="left">
 <p align="left">🌱 I’m currently learning Full stack Web Development & DSA<br><br>👯 I’m looking to collaborate on full-stack projects<br><br>⚡Fun Fact: Either on my laptop, or on my piano, I'm always banging keys</p>
+  <br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gargiiiii18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gargiiiii18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+</div>
 
-###
 
 <br clear="both">
 
