@@ -61,9 +61,10 @@
 
 ###
 
-<img align="right" height="150" src="https://gifdb.com/images/high/anime-monochromatic-typing-cat-8gav8oj3015wans1.gif"  />
+<img align="right" height="350" src="https://github.com/gargiiiii18/gargiiiii18/blob/main/github%20pfp.png?raw=true"  />
 
 ###
+### 
 
 <p align="left">🌱 I’m currently learning Full stack Web Development & DSA<br><br>👯 I’m looking to collaborate on full-stack projects<br><br>⚡Fun Fact: Either on my laptop, or on my piano, I'm always banging keys</p>
 
