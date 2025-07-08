@@ -27,9 +27,9 @@
 </div>
 
 ###
+###
 
-
-<img align="right" height="350" src="https://github.com/gargiiiii18/gargiiiii18/blob/main/github%20pfp.png?raw=true"  />
+<img align="right" height="430" src="https://github.com/gargiiiii18/gargiiiii18/blob/main/githib%20pfp%20eevee.jpeg?raw=true"  />
 
 ###
 ### 
@@ -69,6 +69,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
 </div>
 
+###
 ###
 
 <p align="left">🌱 I’m currently learning Full stack Web Development & DSA<br><br>👯 I’m looking to collaborate on full-stack projects<br><br>⚡Fun Fact: Either on my laptop, or on my piano, I'm always banging keys</p>
