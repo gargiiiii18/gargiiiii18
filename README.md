@@ -29,7 +29,7 @@
 ###
 ###
 
-<img align="right" height="330" src="https://github.com/gargiiiii18/gargiiiii18/blob/main/eevee2.png?raw=true"  />
+<img align="right" height="300" src="https://github.com/gargiiiii18/gargiiiii18/blob/main/eevee2.png?raw=true"  />
 
 ###
 ### 
