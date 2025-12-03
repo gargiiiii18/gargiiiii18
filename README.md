@@ -74,6 +74,8 @@
 
 <p align="left">🎯<a href="https://leetcode.com/u/coder_eevee/" target="_blank" rel="noopener noreferrer">My LeetCode profile</a> <br><br>👯 I’m looking to collaborate on full-stack projects<br><br>⚡Fun Fact: Either on my laptop, or on my piano, I'm always banging keys</p>
 
+<br clear="both">
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 
